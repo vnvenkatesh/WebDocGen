@@ -1,0 +1,20 @@
+[
+    {
+        "ApplicationId": "QSXXXVUL",
+        "DocumentId": ["QSXXXCA","QSXXXIS","QSXXXTA","QSXXXVUL" ],
+        "Description" : "Quaterly Statement",
+        "AdminSystem": "Cyber-Life",
+        "CCMEngine": "Exstrteam",
+        "CCMVersion": 8,
+        "OPTFile" : ""
+    },
+    {
+        "ApplicationId": "ASXXXVUL",
+        "DocumentId": ["ASXXXCA","ASXXXIS","ASXXXTA","ASXXXVUL" ],
+        "Description" : "Annual Statement",
+        "AdminSystem": "Cyber-Life",
+        "CCMEngine": "Exstrteam",
+        "CCMVersion": 8,
+        "OPTFile" : ""
+    }
+]

@@ -1,0 +1,57 @@
+Tue Dec 10 2019 - Error: Application Id doesnot exist!!
+    at db.getDoc.then (E:\ExstreamApp_BackEnd\src\services\record.js:18:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Tue Dec 10 2019 - Error: Application Id doesnot exist!!
+    at db.getDoc.then (E:\ExstreamApp_BackEnd\src\services\record.js:18:21)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Dec 13 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\ExstreamApp_BackEnd\src\utilities\connection.js:42:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Dec 13 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\ExstreamApp_BackEnd\src\utilities\connection.js:42:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Dec 13 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\ExstreamApp_BackEnd\src\utilities\connection.js:42:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Dec 13 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\ExstreamApp_BackEnd\src\utilities\connection.js:42:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Dec 13 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\ExstreamApp_BackEnd\src\utilities\connection.js:42:23)
+Fri Dec 13 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\ExstreamApp_BackEnd\src\utilities\connection.js:42:23)
+Fri Dec 13 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\ExstreamApp_BackEnd\src\utilities\connection.js:42:23)
+Fri Dec 13 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\ExstreamApp_BackEnd\src\utilities\connection.js:42:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Dec 13 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\ExstreamApp_BackEnd\src\utilities\connection.js:42:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Dec 13 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\ExstreamApp_BackEnd\src\utilities\connection.js:42:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Dec 13 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\ExstreamApp_BackEnd\src\utilities\connection.js:42:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Dec 13 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\ExstreamApp_BackEnd\src\utilities\connection.js:42:23)
+Fri Dec 13 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\ExstreamApp_BackEnd\src\utilities\connection.js:42:23)
+Fri Dec 13 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\ExstreamApp_BackEnd\src\utilities\connection.js:42:23)
+Fri Dec 13 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\ExstreamApp_BackEnd\src\utilities\connection.js:42:23)
+Fri Dec 13 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\ExstreamApp_BackEnd\src\utilities\connection.js:42:23)
+Fri Dec 13 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\ExstreamApp_BackEnd\src\utilities\connection.js:42:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Fri Dec 13 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\ExstreamApp_BackEnd\src\utilities\connection.js:42:23)
+Mon Dec 16 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\CCMApp_BackEnd\src\utilities\connection.js:42:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Mon Dec 16 2019 - Error: Could not connect to Database
+    at mongoose.connect.then.catch (E:\CCMApp_BackEnd\src\utilities\connection.js:42:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
